@@ -1,0 +1,29 @@
+_repo: Amid-the-High-Hills_63104
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fraser, Hugh, Sir
+    alias: Fraser, Sir Hugh
+    birthdate: 1860
+    deathdate: 1927
+    gutenberg_agent_id: '52289'
+    url: http://www.gutenberg.org/2009/agents/52289
+description: ''
+gutenberg_issued: '2020-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63104'
+  lccn: '23018825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing -- Scotland'
+- !lcsh 'Spanish American literature -- History and criticism'
+- !lcsh 'Hunting -- Scotland'
+- !lcc 'SK'
+- !lcsh 'Salmon fishing -- Great Britain'
+- GITenberg
+title: Amid the High Hills
+url: http://www.gutenberg.org/ebooks/63104
